@@ -1,0 +1,87 @@
+Definition:
+Population Census is the total process of collecting, compiling, analyzing and disseminating demographic, economic and social data pertaining, at a specific time, of all persons in a country or a well-defined part of a country.
+It also provides the trends in population characteristics.
+The Indian Census is one of the largest administrative exercises undertaken in the world.
+Nodal Ministry:
+The decennial Census is conducted by the Office of the Registrar General and Census Commissioner, Ministry of Home Affairs.
+Until 1951, the Census Organisation was set up on an ad-hoc basis for each Census.
+Legal/Constitutional Backing:
+Census is conducted under the provisions of the Census Act, 1948.
+The bill for this Act was piloted by Sardar Vallabhbhai Patel, the then Home Minister of India.
+The population census is a Union subject under Article 246 of India Constitution.
+It is listed at serial number 69 of the seventh schedule of the constitution.
+Confidentiality of Information:
+The information collected during the population Census is so confidential that it is not even accessible to the courts of law.
+The confidentiality is guaranteed by the Census Act, 1948. The law specifies penalties for both public and census officials for non-compliance or violation of any provision of the Act.
+Significance of Census:
+Source of Information: The Indian Census is the largest single source of a variety of statistical information on different characteristics of the people of India.
+Researchers and Demographers use census data to analyze growth and trends of population and make projections.
+Good Governance: The data collected through the census is used for administration, planning and policy making as well as management and evaluation of various programmes by the Government.
+Demarcation: Census data is also used for demarcation of constituencies and allocation of representation to Parliament, State legislative assemblies and the local bodies.
+Better Access for Businesses: The census data is also important for business houses and industries for strengthening and planning their business for penetration into areas, which had hitherto remained, uncovered.
+Giving Grants: Finance Commission provides grants to the states on the basis of population figures available from the Census data.
+History of Census
+Ancient and Medieval Period:
+Rigveda: The earliest literature 'Rig-Veda' reveals that some kind of population count was maintained during 800-600 BC in India.
+Arthashastra: 'Arthashastra' by 'Kautilya' written in the 3rd Century BC prescribed the collection of population statistics as a measure of state policy for taxation.
+Ain-i-Akbari: During the regime of the Mughal king Akbar, the administrative report 'Ain-e-Akbari' also included comprehensive data pertaining to population, industry, wealth and many other characteristics.
+Pre-independence Period:
+Initial Attempts:
+The history of the census began with 1800 when England had begun its Census.
+In its continuation, a census was conducted in Allahabad (1824) and in Banaras (1827-28) by James Prinsep.
+The first complete census of an Indian city was conducted in 1830 by Henry Walter in Dacca (now Dhaka).
+The Second Census was conducted in 1836-37 by Fort St. George.
+In 1849, the Government of India ordered the local governments to conduct quinquennial (five-yearly) returns of population.
+First Non-synchronous Census: It was conducted in India in 1872 during the reign of Governor-General Lord Mayo.
+First Synchronous Census: The first synchronous census was taken under British rule on February 17, 1881, by W.C. Plowden (Census Commissioner of India).
+Since then, censuses have been undertaken uninterruptedly once every ten years.
+Major Events/Findings in India’s Census
+First Census (1881):
+It laid main emphasis on the classification of demographic, economic and social characteristics of the entire continent of British India (except Kashmir and French and Portuguese colonies).
+Second Census (1891):
+It was conducted almost on the same pattern as of the 1881 census.
+Efforts were made for 100% coverage and the Upper part of present-day Burma, Kashmir and Sikkim were also included.
+Third Census (1901):
+In this Census, Balochistan, Rajputana, Andaman Nicobar, Burma, Punjab and remote areas of Kashmir were also included.
+Fifth Census (1921):
+The decade of 1911-21 has been the only one till now to witness a decadal population decline of 0.31%.
+This was the decade that ended in the flu pandemic of 1918 which cost at least 12 million lives.
+India’s population was continuously increasing until Census 1921 and still has been doing so after the 1921 Census.
+Therefore, the census year of 1921 is called the year of “The Great Divide” in the demographic history of India.
+Eleventh Census (1971):
+It was the second Census after independence.
+It added a question for information on fertility for currently married women.
+Thirteenth Census (1991):
+It was the fifth Census of independent India.
+In this Census, the concept of literacy was changed and the children of the 7+ age group were considered literate (as compared to 1981 when children up to the age group of 4+ were treated as literate).
+Fourteenth Census (2001):
+It witnessed a quantum leap in the technology front.
+The schedules for the phases were scanned through high speed scanners and handwritten data from the schedules were converted into digitized form through Intelligent Character Reading (ICR).
+An ICR captures handwriting from image files. It is an advanced version of Optical Character Recognition (OCR) technology in which printed characters are captured.
+Fifteenth Census (2011):
+In the 2011 Census, significant fall in case of EAG States (Empowered action group states: UP, Uttarakhand, Bihar, Jharkhand, MP, Chhattisgarh, Rajasthan & Orissa) was noticed for the first time.
+Sixteenth Census (2021):
+Census 2021 was postponed owing to the outbreak of Covid-19 pandemic.
+However, it will be the first digital Census, also with a provision for self-enumeration.
+It is for the first time that information of households headed by a person from the Transgender Community and members living in the family will be collected.
+Earlier there was a column for male and female only.
+Socio-Economic and Caste Census (SECC)
+About:
+The Socio-Economic and Caste Census (SECC) was conducted in 2011 for the first time since 1931.
+It seeks to canvass every Indian family in rural and urban India, and ask about their:
+Economic status, to allow Central/State authorities to come up with a range of indicators of deprivation which could be used by each authority to define a poor or deprived person.
+Specific caste name, to allow the government to re-evaluate which caste groups are economically worse off and which are better off.
+Difference Between Census & SECC:
+Field of Coverage: The Census provides a portrait of the Indian population while the SECC is a tool to identify beneficiaries of state support.
+Confidentiality of Data: The Census data is considered confidential, whereas the data of SECC is open for use by Government departments to grant and/or restrict benefits to the people.
+Significance of SECC:
+Better Mapping of Inequalities: SECC has the potential to allow for a mapping of inequalities at a broader level.
+It will be useful to establish statistical justification for preserving caste-based affirmative action programmes or welfare schemes.
+Legally Imperative: It is also legally imperative as the courts require a ‘quantifiable data’ to support the existing levels of reservation.
+Constitutional Mandate: The Constitution of India also favours conducting a caste census.
+Article 340 mandates the appointment of a commission to investigate the conditions of socially and educationally backward classes and make recommendations as to the steps that should be taken by governments.
+Associated Concerns with SECC:
+Repercussions of a Caste Census: Caste has an emotive element and thus there exist the political and social repercussions of a caste census.
+There have been concerns that counting caste may help solidify or harden identities.
+Due to these repercussions, nearly a decade after the SECC, a sizable amount of its data remains unreleased or released only in parts.
+Caste is Context-specific: Caste has never been a proxy for class or deprivation in India; it constitutes a distinct kind of embedded discrimination that often transcends class.
