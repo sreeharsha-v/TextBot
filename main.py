@@ -18,7 +18,7 @@ app = Flask(__name__)
 CORS(app)
 
 # Set the OpenAI API key as an environment variable
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = 'PLACE YOUR OPENAI API KEY HERE'
 
 # Initialize OpenAIEmbeddings with the API key
 embeddings = OpenAIEmbeddings(openai_api_key=os.environ['OPENAI_API_KEY'])
