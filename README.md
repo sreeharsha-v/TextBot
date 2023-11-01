@@ -15,5 +15,5 @@ This project is a Flask-based web service that combines text indexing and natura
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/your-project.git
-   cd your-project
+   git clone https://github.com/sreeharsha-v/TextBot.git
+   cd TextBot
